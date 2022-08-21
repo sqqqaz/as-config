@@ -1,0 +1,81 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../Applications/android-sdk-macosx/platforms/android-29/data/res/layout/simple_spinner_dropdown_item.xml" value="0.22916666666666666" />
+        <entry key="../../../../../Applications/android-sdk-macosx/platforms/android-29/data/res/layout/simple_spinner_item.xml" value="0.22916666666666666" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/82f44fd91a47c1a4bd5f7ecbc445ae47/jetified-privacy_permission-20211216172102746/res/layout/setting_permission_activity.xml" value="0.2359375" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/82f44fd91a47c1a4bd5f7ecbc445ae47/jetified-privacy_permission-20211216172102746/res/layout/setting_permission_item_layout.xml" value="0.2359375" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/82f44fd91a47c1a4bd5f7ecbc445ae47/jetified-privacy_permission-20211216172102746/res/layout/setting_permission_toolbar.xml" value="0.2359375" />
+        <entry key="app/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_cpc_web.xml" value="0.1140625" />
+        <entry key="app/src/main/res/layout/activity_game.xml" value="0.6484375" />
+        <entry key="app/src/main/res/layout/activity_location.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/base_view/bottom/layout/base_bannerbottom004.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/base_view/bottom/layout/base_bannerbottom116.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/base_view/bottom/layout/base_bannerbottom201.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_cpc_web.xml" value="0.1140625" />
+        <entry key="app/src/main/res/layout/gc_layout_main_page_ad_inter.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/incite_view/layout/style_incitevideofloatdownloadnow.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/style_5600001.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/style_endview_2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/videofeed_layout/layout/style_1140003.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/cpc_external_files.xml" value="0.1140625" />
+        <entry key="app/src/main/res/xml/network.xml" value="0.2296875" />
+        <entry key="hotfix_bridge/src/main/res/drawable/gc_sdk_base_atx_bg.xml" value="0.25104166666666666" />
+        <entry key="hotfix_bridge/src/main/res/layout/gc_privacy_web_layout.xml" value="0.2359375" />
+        <entry key="hotfix_bridge/src/main/res/layout/gc_sdk_base_layout_debug_dialog.xml" value="0.2359375" />
+        <entry key="hotfix_bridge/src/main/res/layout/sqq_test.xml" value="0.13768115942028986" />
+        <entry key="hotfix_common/src/main/res/layout-land/gc_sdk_base_privacy_dialog.xml" value="0.1" />
+        <entry key="hotfix_common/src/main/res/layout-land/gc_sdk_dialog_all_per_alter.xml" value="0.16875" />
+        <entry key="hotfix_common/src/main/res/layout-land/gc_sdk_item_all_per_alter.xml" value="0.2006172839506173" />
+        <entry key="hotfix_common/src/main/res/layout/gc_dlg_common.xml" value="0.2359375" />
+        <entry key="hotfix_common/src/main/res/layout/gc_fragment_teen_main_page.xml" value="0.1" />
+        <entry key="hotfix_common/src/main/res/layout/gc_layout_dlg_icon_model.xml" value="0.23697916666666666" />
+        <entry key="hotfix_common/src/main/res/layout/gc_layout_new_dlg.xml" value="0.25" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_dialog_identify.xml" value="0.22916666666666666" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_dialog_teenager_tip.xml" value="0.1" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_dlg_teenager_protect.xml" value="0.11499493414387031" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_dlg_user_label.xml" value="0.23697916666666666" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_layout_ad_splash.xml" value="0.25" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_base_upgrade_dialog.xml" value="0.1" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_dialog_all_per_alter.xml" value="0.165" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_dialog_permission_alter.xml" value="0.23697916666666666" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_item_all_per_alter.xml" value="0.23697916666666666" />
+        <entry key="hotfix_common/src/main/res/layout/gc_sdk_layout_skin_dialog.xml" value="0.5" />
+        <entry key="library/src/main/res/drawable/gray_circle_bg.xml" value="0.1" />
+        <entry key="library/src/main/res/layout/sh_default_progress_layout.xml" value="0.2359375" />
+        <entry key="library/src/main/res/layout/sh_item_photoview.xml" value="0.2359375" />
+        <entry key="library/src/main/res/layout/sh_layout_preview.xml" value="0.25" />
+        <entry key="platform_qtt/src/main/res/drawable/plat_qtt_bg_withdraw_selected.xml" value="0.13020833333333334" />
+        <entry key="qtt_login/src/main/res/drawable/gc_login_select_check.xml" value="0.13020833333333334" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_child_account_pwd.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_child_phone_sms.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_child_switch_icon.xml" value="0.13360507246376813" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_account_ev.xml" value="0.1046875" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_btn.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_checkbox.xml" value="0.23697916666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_edit_account.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_edit_pwd.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_fast_login.xml" value="0.1" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_find_pwd_txt.xml" value="0.165" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_history.xml" value="0.1" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_privacy_text.xml" value="0.23697916666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_pwd_ev.xml" value="0.13645833333333332" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_switcher.xml" value="0.13360507246376813" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_title_bar.xml" value="0.1" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_wx.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_chip_layout_wx_large.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_dialog_bind_phone.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_dialog_change_dialog.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_item_history_account.xml" value="0.22916666666666666" />
+        <entry key="qtt_login/src/main/res/layout/gc_login_test_layout_dialog.xml" value="0.22916666666666666" />
+        <entry key="sample/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="sample/src/main/res/layout/image_progress_layout_theme_1.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+</application>
