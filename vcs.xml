@@ -48,7 +48,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.qutoutiao.net" />
-          <option name="userName" value="sunqianquan" />
+          <option name="userName" value="sunqianquan02" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.qutoutiao.net/qutoutiao-android/biz-web" />
@@ -230,9 +230,13 @@
           <option name="url" value="git@git.qutoutiao.net:miduNovelBucket/scripts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.qutoutiao.net/qutoutiao-android/qtt_content.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/miduNovel" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/qukan.android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
