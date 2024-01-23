@@ -9,6 +9,7 @@
       <mapping pattern="adapter" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
