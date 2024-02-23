@@ -342,9 +342,13 @@
           <option name="url" value="git@git.qutoutiao.net:qutoutiao/qukan-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/thothsun/notification-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/QTT_Project" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/My_Project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
