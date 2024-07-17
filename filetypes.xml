@@ -11,6 +11,7 @@
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="licbag" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
