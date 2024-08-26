@@ -374,6 +374,10 @@
           <option name="url" value="git@git.qutoutiao.net:qutoutiao-android/innosecure.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.qutoutiao.net:antispam/innoencryptsdkandroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/QTT_Project" />
